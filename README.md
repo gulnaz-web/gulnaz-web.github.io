@@ -1,2 +1,7 @@
 # FAR_AWAY
-Project on react "FAR AWAY"
+🛠 Технологии:
+- **ReactJS**
+- React Hooks
+- **State** management
+- **Derived** state
+- **Lifting** up state
